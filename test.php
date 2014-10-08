@@ -15,7 +15,7 @@
 <script src="js/jquery-1.8.3.min.js"></script>
 <script type="text/javascript">
     $(document).ready(function() {
-        alert('zzz');
+        alert('zzsasdfsda');
     });
 </script>
 
